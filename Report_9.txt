@@ -1,0 +1,138 @@
+﻿1. Digital Humanities Quarterly 
+   1. DH research appears to have an active world-wide community but project teams are looking at ways to end their projects 
+      1. “Despite inheriting a relatively deep tradition, we are only beginning to understand the dense entanglement that accrue over time between digital humanists, administrators, and the web servers, programming languages, and tools, we use to produce our publications.” 
+   2. We have more options but none seem to be helping the problem of maintaining and sustaining. 
+      1. Problems that we have deferred are now more pressing than ever - security, archiving, maintenance, etc. 
+   3. What do we do when projects survive past their initial funding? 
+      1. Solutions must be tailored to the local environment and must address complexity, range, finance, and operations. 
+      2. Digital tools and infrastructure do not allow for perfection. 
+      3. King’s Digital Lab has chosen to see archiving and sustainability as an ongoing issue 
+         1. KDL launched in 2015 - established out of two other Humanities labs
+         2. Dedicated to research software engineering, implementation, infrastructure, tools, and processes for digital scholarship outputs. 
+   4. KDL’s Legacy Portfolio 
+      1. Houses 100+ projects 
+      2. Moral bind - turn projects off and reduce the number of DH projects available and take a hit to reputation or leave the projects on and risk a major security breach 
+      3. The article focuses on the issues facing teams like KDL. 
+      4. The majority of KDL’s projects were orphaned, lack funding for maintenance. 
+      5. “Solid security requires up to date and regularly patched servers, but also up to date and patched application frameworks… which can be equally difficult to maintain.” 
+      6. Gaps in policy, hard to address on a local and international level 
+         1. Issues inherited by KDL are the result of wider conceptual failure 
+      7. DH cannot be known for taking in valuable money and using it on unsustainable projects 
+      8. People are also more often invested in development than maintenance
+      9. Normalize technical infrastructure as a human and community asset rather than a technical artifact 
+      10. Most effective strategy appears to be open-ended contracts and embedded archiving and maintenance into the culture of technical development
+   5. Software Development Life-Cycle (SDLC) & Infrastructure
+      1. Software development is rarely linear
+      2. KDL increases initial costs to help combat these issues 
+         1. A range of archival products are considered at the beginning for use when funding ends 
+   6. Principles 
+      1. Digital projects benefit from being planned and executed with their longevity in mind from the start 
+         1. Technical maintenance to ensure access
+         2. Blends experience with common sense
+      2. Should be able to find funding for archival approaches to projects
+      3. Access each project in terms of scholarly value, technical complexity, security risk, maintenance cost, infrastructure coast, PI engagement, institutional support, value to KDL, and value to King’s College London
+   7. Implementation
+      1. Bring prior legacy projects into current processes
+      2. Lengthy documents → Service Level Agreements 
+      3. Some projects need to be taken offline and archived due to their security risk 
+      4. Those projects moved towards archiving go through a decommissioning process 
+      5. Three options 
+         1. SLA’s, software updates, maintenance, and contracts 
+         2. Migration to partner institution for local hosting 
+         3. Archiving (can lead to problems though) 
+      6. KDL’s processes have earned satisfactory results with positive responses 
+      7. Our community has 3-5 years to continue seeking new options 
+      8. To be effective, “realistic costing methods need to be developed and shared between product partners, and embedded within funding policy”
+2. The Internet Archive Software Collection
+   1. “Is the largest vintage and historical software library in the world, providing instant access to millions of programs, CD-ROM images, documentation and multimedia” 
+   2. CD Archive 
+      1. Thousands and can be browsed online 
+   3. The Old School Emulation Center 
+      1. Retrocomputing initiative 
+      2. Catalogs and audits various kinds of software and firmware for systems 
+   4. DEMU collection
+      1. Hosts 4,000 classic PC-based games 
+      2. DOS or Windows-based 
+   5. FTP Site Boneyard 
+      1. Collection of various FTP sites from the mid 1980s to the late 2000s 
+      2. Contributions are often disk drives
+   6. Essential archives vintage softwares including games 
+3. The Future of Your Data
+   1. Technology changes, people have retired, older projects just stop working
+   2. Think about how would it look in 1,5 or 20 years 
+   3. Physical Limitations 
+      1. Losing a thumbdrive 
+      2. Dropping your phone 
+      3. Component failure 
+      4. Bit rot 
+   4. Physical Mitigations 
+      1. Back up your stuff
+      2. Organize, migrate files every few years 
+      3. Checksums 
+      4. Controlled storage (cold, low humidity) 
+   5. Software Limitations 
+      1. Can’t open a file format 
+      2. Unable to run a script 
+      3. Website broken 
+   6. Software Mitigations 
+      1. Complete redo in new technology 
+      2. Upgrade! 
+      3. Combination of the above 
+      4. Questions to ask 
+         1. What was the original like? 
+         2. Do you have any ways of getting it running? 
+         3. What were the important parts, and can you salvage them? 
+   7. Provider Limitations 
+      1. Unexpected expenses 
+      2. Company goes out of business 
+      3. Changes to law/regulations/policies 
+      4. Malicious actors 
+      5. Retiring products/ services
+   8. Provider Mitigations 
+      1. Make a plan for the worst case 
+      2. Be aware of emails, correspondence from provider 
+      3. Keep a copy of your data 
+   9. Human Limitations 
+      1. The original developers is gone 
+      2. No instructions 
+      3. Not enough knowledge to fix or redo 
+   10. Human Mitigations 
+      1. Write everything down and put in a place you can find it 
+      2. Choose commonly used tech 
+      3. Make a plan for the future 
+   11. Before you get too far 
+      1. What’s the minimum viable product? 
+      2. Choose or create standards 
+         1. Metadata
+         2. File naming conventions 
+         3. Where you put stuff 
+         4. Scanning resolution, photo quality, etc. 
+   12. Collaborate! 
+      1. Identify 
+      2. Who is responsible for what? 
+      3. How will you communicate? 
+      4. How do you credit everyone? 
+   13. Set up documentation and issue tracking
+      1. Find location for documentation 
+      2. Think about technology for documentation! 
+      3. How will you keep track of todo items? 
+      4. Who will be able to access all of the above? 
+   14. Choose tech carefully 
+      1. What do you need it to do? 
+      2. Is it widely used and supported? 
+      3. How much maintenance will it need? 
+      4. Can you easily train someone to use it? 
+      5. Will your data be stored within the system or outside of it? 
+      6. Plain text and non-proprietary formats? 
+   15. Think about money
+      1. Figure expenses now AND in the future 
+         1. Website and file hosting 
+         2. staff/ consultant wages 
+         3. Software purchases 
+   16. Make plans 
+      1. Will the project ever “end”? 
+         1. How will you add new things? 
+         2. What if you find mistakes? 
+      2. What if you are asked to take part down? 
+      3. What if part of the site stops working? 
+      4. How might you gracefully retire it?
